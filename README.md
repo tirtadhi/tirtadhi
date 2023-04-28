@@ -1,10 +1,15 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Tirta Adhi Samsara**
+Perkenalkan nama saya **Tirta Adhi Samsara**.\
 
-Saya seorang **Mahasiswa Teknik Informatika** di [UNPAM](https://unpam.ac.id/)
+Saya seorang **Mahasiswa Teknik Informatika** di [UNPAM](https://unpam.ac.id/).\
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tirtaadhisamsara/)ku ya.
+
+<b>VISTOR COUNT
+  <h4 align="center">
+
+  <img src="https://profile-counter.glitch.me/tirtadhi/count.svg" />
 
 <p align="left">
 <a href="https://github.com/tirtadhi">
