@@ -4,8 +4,6 @@ Perkenalkan nama saya **Tirta Adhi Samsara**.\
 
 Saya seorang **Mahasiswa Teknik Informatika** di [UNPAM](https://unpam.ac.id/).\
 
-Saya juga memiliki gelar [Cloud Practitioner Essentials ](https://www.dicoding.com/certificates/81P23QJ6NXOY).\
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tirtaadhisamsara/)ku ya.
 
 <p align="left">
