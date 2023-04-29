@@ -4,8 +4,6 @@ Perkenalkan nama saya **Tirta Adhi Samsara**.\
 
 Saya seorang **Mahasiswa Teknik Informatika** di [UNPAM](https://unpam.ac.id/).\
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tirtaadhisamsara/)ku ya.
-
 ### 📫 Let's Connect
 <a href="https://linkedin.com/in/tirtaadhisamsara" target="_blank"><img align="left" alt="tirtadhi | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://instagram.com/tirtadhi" target="_blank"><img align="left" alt="tirtadhi | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /> .\
