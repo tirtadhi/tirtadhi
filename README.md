@@ -14,7 +14,7 @@ Saya seorang **Mahasiswa Teknik Informatika** di [UNPAM](https://unpam.ac.id/).\
 
   <img src="https://profile-counter.glitch.me/tirtadhi/count.svg" />
 
-### 📈 Github Analytics
+### 📈 Github Stats
 <p align="left">
 <a href="https://github.com/tirtadhi">
   <img src="https://github-readme-stats.vercel.app/api?username=tirtadhi&show_icons=true&theme=dracula&line_height=33" />
@@ -24,3 +24,5 @@ Saya seorang **Mahasiswa Teknik Informatika** di [UNPAM](https://unpam.ac.id/).\
 
  ### 🏆 Github Trophy
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirtadhi&theme=discord" alt="tirtadhi" /></a> </p>
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
