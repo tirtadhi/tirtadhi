@@ -4,10 +4,9 @@ Hi 👋 My name is Tirta Adhi
 Student Infomatics Engginering
 ------------------------------
 
-* 🌍  I'm based in Tangerang, Indonesia
+* 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://tirtadhi.github.io)
 * ✉️  You can contact me at [tirtadhi@proton.me](mailto:tirtadhi@proton.me)
-* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/tirtadhi" target="_blank" rel="noreferrer"><img
@@ -44,7 +43,6 @@ src="https://img.shields.io/github/followers/tirtadhi?logo=github&style=for-the-
 
 <a href="http://www.github.com/tirtadhi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tirtadhi&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/tirtadhi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tirtadhi&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>My GitHub Trophy</b>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirtadhi&theme=discord" alt="tirtadhi" /></a> </p>
@@ -54,4 +52,3 @@ src="https://img.shields.io/github/followers/tirtadhi?logo=github&style=for-the-
 
   <img src="https://profile-counter.glitch.me/tirtadhi/count.svg" />
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
