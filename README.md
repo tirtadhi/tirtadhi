@@ -13,16 +13,42 @@ Student Infomatics Engginering
 src="https://img.shields.io/github/followers/tirtadhi?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 
+
+<p align="center">VISTOR COUNT
+  <h4 align="center">
+
+  <img src="https://profile-counter.glitch.me/tirtadhi/count.svg" />
+
+
 ### Skills
 
+<ul>
+  <li><h3>Front-End</h3></li>
+</ul>
+<div align="left">
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="bootstrap logo"  />
+</div>
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<ul>
+  <li><h3>Back-End</h3></li>
+</ul>
+<div align="left">
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="laravel logo"  />
+</div>
 
 
 ### Socials
@@ -39,12 +65,4 @@ src="https://img.shields.io/github/followers/tirtadhi?logo=github&style=for-the-
 
 <a href="http://www.github.com/tirtadhi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tirtadhi&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<b>My GitHub Trophy</b>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirtadhi&theme=discord" alt="tirtadhi" /></a> </p>
-  
- <p align="center">VISTOR COUNT
-  <h4 align="center">
-
-  <img src="https://profile-counter.glitch.me/tirtadhi/count.svg" />
 
