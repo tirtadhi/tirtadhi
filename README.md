@@ -9,8 +9,6 @@ Student Infomatics Engginering
 * ✉️  You can contact me at [tirtadhi@proton.me](mailto:tirtadhi@proton.me)
 * 🤝  I'm open to collaborating on Interesting Projects
 
-<a href="https://www.github.com/tirtadhi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tirtadhi?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 
 
 
