@@ -5,7 +5,7 @@ Student Infomatics Engginering
 ------------------------------
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [My Portfolio](http://tirtadhi.github.io)
+* 🖥️  See my portfolio at [My Portfolio](http://tirtadhi.site)
 * ✉️  You can contact me at [tirtadhi@proton.me](mailto:tirtadhi@proton.me)
 * 🤝  I'm open to collaborating on Interesting Projects
 
