@@ -26,6 +26,8 @@ Hi 👋 My name is Tirta Adhi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind"  />
